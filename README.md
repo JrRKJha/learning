@@ -1,2 +1,2 @@
-# learning
-This Repo is for learning and testing.
+# learning c
+This Repo is for learning and testing c.
