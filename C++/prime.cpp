@@ -38,7 +38,7 @@ int main()
                 if (num % i == 0) // since it is prime there shouldn't be any factor if a factor exists the program exists immediately
                 {
                     count++;
-                    break;
+                    break; // exits loop if the count increases from 0
                 }
             }
             if (count == 0) // showing results
