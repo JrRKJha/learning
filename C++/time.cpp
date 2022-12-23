@@ -47,6 +47,12 @@ int main()
         sh = sh + 1;
     }
 
+    // or we can use this
+    // sm = sm + ss/60;
+    // ss = ss%60;
+    // sh = sh + sm/60;
+    // sm = sm%60;
+
     cout << "The sum of time is " << sh << ":" << sm << ":" << ss << endl;
 
     system("PAUSE");
