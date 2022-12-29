@@ -23,3 +23,11 @@ int main()
         cout << n << "\t" << v << endl;
     }
 }
+
+// Output
+// Please enter the number of Terms you want: 5
+// 1       1100
+// 2       1210
+// 3       1331
+// 4       1464.1
+// 5       1610.51
